@@ -2,12 +2,12 @@
 
 - 🌱 I’m currently learning C++, Networking
 - 📫 How to reach me: jklimock@gmail.com
-<!--
-**badgerwild/badgerwild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 [![badgerwild's GitHub stats](https://github-readme-stats.vercel.app/api?username=badgerwild)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
+**badgerwild/badgerwild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
