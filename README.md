@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🌱 I’m currently learning embedded C and image processing 
-- 📫 How to reach me: jklimock@gmail.com
+
 
 
 <!--[![badgerwild's GitHub stats](https://github-readme-stats.vercel.app/api?username=badgerwild)](https://github.com/anuraghazra/github-readme-stats&theme=gruvbox&show_icons=true)
@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jklimock@gmail.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: jklimock@gmail.com
+
 -->
