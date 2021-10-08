@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning C++, Networking
+- 🌱 I’m currently learning embedded C and image processing 
 - 📫 How to reach me: jklimock@gmail.com
 
 
