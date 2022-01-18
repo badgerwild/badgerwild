@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning embedded C and image processing 
+- 🌱 I’m currently learning compiler design
 
 
 
