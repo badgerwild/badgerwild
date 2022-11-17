@@ -1,6 +1,5 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning compiler design
 
 
 
@@ -20,5 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me: jklimock@gmail.com
+
+- 🌱 I’m currently learning compiler design
 
 -->
